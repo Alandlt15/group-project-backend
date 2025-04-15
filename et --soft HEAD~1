@@ -1,0 +1,53 @@
+[33mcommit b1eef1c6c6e4fe420be82e74401bf9b67a01fc0a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Alan De La Torre <sua9@txstate.edu>
+Date:   Tue Apr 15 18:36:27 2025 -0500
+
+    alan-initial commit
+
+[33mcommit cd2e06c8cecc2934b9e64f0cd0d38e9acc6898c8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Yi Liu <yi009@e.ntu.edu.sg>
+Date:   Thu Sep 12 10:36:39 2024 +0800
+
+    Create LICENSE
+
+[33mcommit 4c48d573915fd64dd8a26a04d045c97d60ec86ab[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Fri Sep 6 10:13:35 2024 +0800
+
+    docs: ✏️ Update document time
+
+[33mcommit c8cecfa8c77fc9e3de8a738d7dccb90394fc725e[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Tue Jun 18 09:19:39 2024 +0800
+
+    docs(README.md): Update readme.
+
+[33mcommit 529396604560beae23ddbdc15aa7c5bb88bf269d[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Tue Jun 18 09:18:44 2024 +0800
+
+    docs(README.md): Update readme and files
+
+[33mcommit d1ded27126730eef0beb1e601e8a6d0712c6ebca[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Mon Apr 22 10:23:37 2024 +0800
+
+    docs(templates): Add langchain benchmark.
+
+[33mcommit 756b7b6d7feba92ae4c57752035472963e60b076[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Thu Aug 24 17:29:00 2023 +0800
+
+    docs(README.md): Fix broken url.
+
+[33mcommit 979d481fabf712950bfdefc374dfb0e078500731[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Thu Aug 24 17:27:42 2023 +0800
+
+    docs(README.md): Add citation and contributors.
+
+[33mcommit 5198937c5260df7ca7c274e407ffca31952396e0[m
+Author: Yi LIU <yi009@e.ntu.edu.sg>
+Date:   Thu Aug 24 17:19:40 2023 +0800
+
+    Initial commit

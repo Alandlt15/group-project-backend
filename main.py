@@ -3,6 +3,7 @@ import pathlib
 
 import loguru
 import openai
+import sys
 
 from constant.chromosome import Chromosome
 from harness.base_harness import Harness
@@ -12,6 +13,7 @@ from intention.content_manipulation import ContentManipulation
 from iterative_prompt_optimization import IterativePromptOptimizer
 
 logger = loguru.logger
+logger.add(sys.stdout, level="INFO") 
 
 # Load config file from root path
 config_file_path = pathlib.Path("./config.json")
