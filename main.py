@@ -24,7 +24,7 @@ config = json.load(open(config_file_path))
 openai.api_key = config["openai_key"]
 
 # Define constants for optimization process
-max_iteration = 50
+max_iteration = 2
 max_crossover = 0.1
 max_mutation = 0.5
 max_population = 10
