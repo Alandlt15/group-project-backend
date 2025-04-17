@@ -15,6 +15,7 @@ distro==1.9.0
 Flask==3.1.0
 flask-cors==5.0.1
 fonttools==4.57.0
+fpdf==1.7.2
 frozenlist==1.5.0
 h11==0.14.0
 httpcore==1.0.8
@@ -36,6 +37,7 @@ propcache==0.3.1
 pydantic==2.11.3
 pydantic_core==2.33.1
 pyparsing==3.2.3
+pypdf2==3.0.1
 pyperclip==1.8.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
